@@ -1,0 +1,13 @@
+Arduino ESP32 Dependencies 
+
+
+Install arduino from https://www.arduino.cc/en/software/
+
+To connect to esp32, install Additional Boards Manager URls: 
+Navigate: 
+  File > Preferences > Additional board manager URLs: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Once installed, go to: 
+  Tools > Boards > Board Manager
+  Search ESP32, install the one from espressif 
+
