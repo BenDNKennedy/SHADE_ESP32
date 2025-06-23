@@ -4,8 +4,8 @@
 #include <WebServer.h>
 
 // WiFi config
-const char* ssid = "TP-Link_3244";
-const char* password = "09712980";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PW";
 
 IPAddress local_IP(192, 168, 1, 87);
 IPAddress gateway(192, 168, 1, 1);
